@@ -1,0 +1,2 @@
+foo: cloud
+foo-cloud: only in application-cloud.yml in github
