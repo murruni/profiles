@@ -1,0 +1,2 @@
+foo-cloud: foo-cloud from https://github.com/murruni/profiles/application-testcloud.yml
+foo-testcloud: foo-testcloud from https://github.com/murruni/profiles/application-testcloud.yml
